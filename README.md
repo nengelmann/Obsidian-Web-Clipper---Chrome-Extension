@@ -5,7 +5,12 @@ The original javascript code comes from [kepano](https://gist.github.com/kepano)
 
 ## Usage
 
-#todo
+1. Select text.
+2. Click on Obsidian-Web-Clipper icon.
+
+https://github.com/nengelmann/Obsidian-Web-Clipper---Chrome-Extension/assets/120744129/fb7bc20c-a815-4555-ba5b-de20f4b3fdca
+
+
 
 ## Installation
 
