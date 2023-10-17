@@ -1,0 +1,21 @@
+{
+ "background": {"scripts": ["background.js"]},
+ "browser_action": {
+ "default_icon": "icon-128.png",
+ "default_title": "Obsidian Web Clipper"
+ },
+ "name": "Obsidian Web Clipper",
+ "description": "capture selection to obsidian",
+ "homepage_url": "https://gist.github.com/nengelmann/95f65dc6e0d8a871dc5a16eaf1f30f48",
+ "icons": {
+     "16": "icon-16.png",
+     "48": "icon-48.png",
+     "128": "icon-128.png" },
+ "permissions": [
+     "tabs",
+     "http://*/*",
+     "https://*/*"
+ ],
+ "version": "0.1",
+ "manifest_version": 2
+}
